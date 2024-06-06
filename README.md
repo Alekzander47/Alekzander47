@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm Ajay, a passionate explorer of the vast world 
 
 ### 📫 Let's Connect!
 - **LinkedIn:** [Ajay Singh](https://www.linkedin.com/in/ajay-singh-4b6b3b306?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )
-- **Email:** ajaysingh472700@gmai.com
+- **Email:** ajaysingh472700@gmail.com
 
 ### 🌟 Fun Facts
 - I enjoy participating in hackathons and coding challenges to sharpen my skills.
